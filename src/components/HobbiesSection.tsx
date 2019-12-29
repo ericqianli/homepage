@@ -21,7 +21,7 @@ class HobbiesSection extends React.Component {
                 <Grid item>
                     <Typography variant="h6" align="center">
                         {"Music • "}
-                        <Link target="_blank" href="/data/fallen-star.pdf">
+                        <Link color="textPrimary" target="_blank" href="/data/fallen-star.pdf">
                             Poetry
                         </Link>
                         {" • Ikebana"}

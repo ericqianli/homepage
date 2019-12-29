@@ -29,7 +29,7 @@ function App() {
             <CssBaseline />
             <div className="App">
                 <Container maxWidth="sm">
-                    <Box my={10}>
+                    <Box mt={10} mb={4}>
                         <Grid
                             container
                             direction="column"
@@ -96,19 +96,17 @@ function App() {
                             <ServicesSection />
 
                             <HobbiesSection />
-                            {/* <a
-                                className="App-link"
-                                href="https://reactjs.org"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                Learn React
-                            </a> */}
-                            <Box mt={4}>
+
+                            <Box my={2} />
+
+                            <Grid item>
                                 <Typography variant="subtitle2">
                                     www.qianli.com
                                 </Typography>
-                            </Box>
+                                <Typography variant="subtitle1" align="center">
+                                    Built with Node.js and React
+                                </Typography>
+                            </Grid>
                         </Grid>
                     </Box>
                 </Container>
