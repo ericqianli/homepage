@@ -9,7 +9,7 @@ const experiences = [
         name: "Facebook 2013 - Present",
         title: "Senior Software Engineer",
         description:
-            "Designing and implementing next generation big data analytics platforms and products to empower core business decision making. Built the universal query product supporting 10+ data sources, 8k+ daily active users and 80k+ daily queries. Constantly contributing to various data exploration, visualization and dashboarding products. Led multiple cross team projects, utilizing machine learning to improve query composition, interfacing query platform to anomaly detection and automating interactive dashboard creation. Actively training employees on internal data products."
+            "Building next generation big data analytics platforms and products to empower core business decision making. Built the universal query product supporting 10+ data sources, 8k+ daily active users and 80k+ daily queries. Constantly contributing to various data exploration, visualization and dashboarding products. Led multiple cross team projects, utilizing machine learning to improve query composition, interfacing query platform to anomaly detection and automating interactive dashboard creation. Actively interviewing and training employees on internal data products."
     },
     {
         name: "National University of Singapore 2013 Summer",

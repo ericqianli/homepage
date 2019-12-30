@@ -1,7 +1,5 @@
 import { createMuiTheme } from "@material-ui/core/styles";
 
-const primaryTextColor = "#fff";
-
 const theme = createMuiTheme({
     props: {
         MuiButtonBase: {

@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Box, Grid, Link, Typography } from "@material-ui/core";
+import { Grid, Link, Typography } from "@material-ui/core";
 import Open from "@material-ui/icons/OpenInNew";
 
 import SectionHeader from "./SectionHeader";
