@@ -18,16 +18,6 @@ const theme = createMuiTheme({
                 paddingTop: 0,
                 paddingBottom: 0
             }
-        },
-        MuiLink: {
-            // root: {
-            //     "&:hover": {
-            //         color: "inherit"
-            //     }
-            // },
-            underlineHover: {
-                textDecoration: "none"
-            }
         }
     },
     palette: {},

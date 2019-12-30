@@ -16,7 +16,7 @@ const projects = [
         name: "Ocean & Morus",
         link: "/data/fallen-star.pdf",
         description:
-            "A platform dedicated to collecting, presenting and exchanging timeless arts, reflecting simple design, rich culture and exquisite craftsmanship."
+            "A platform dedicated to collecting, presenting and exchanging timeless arts, which reflect simple design, rich culture and exquisite craftsmanship."
     },
     {
         name: "Ishhoikka",
