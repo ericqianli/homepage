@@ -81,9 +81,9 @@ function App() {
                                     have helped thousands of users accomplishing
                                     their data tasks with efficiency and ease.
                                     Now, arising cutting-edge technologies such
-                                    as Node.js, React and Vue unlock an
-                                    unparalleled opportunity to bring data
-                                    analytics to a new level -- simple,
+                                    as Node.js, React, Vue and Material Design
+                                    unlock an unparalleled opportunity to bring
+                                    data analytics to a new level -- simple,
                                     beautiful and powerful. I am excited to
                                     leverage my expertise in engineering and
                                     passion in art to fulfill the vision of next
@@ -111,7 +111,7 @@ function App() {
                                     www.qianli.com
                                 </Typography>
                                 <Typography variant="subtitle1" align="center">
-                                    Built with Node.js and React
+                                    Built with Node.js, React and Material UI
                                 </Typography>
                             </Grid>
                         </Grid>
