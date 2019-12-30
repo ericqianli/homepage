@@ -25,9 +25,9 @@ const theme = createMuiTheme({
             //         color: "inherit"
             //     }
             // },
-            // underlineHover: {
-            //     textDecoration: "underline"
-            // }
+            underlineHover: {
+                textDecoration: "none"
+            }
         }
     },
     palette: {},

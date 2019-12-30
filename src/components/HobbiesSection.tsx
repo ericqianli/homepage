@@ -1,4 +1,5 @@
 import React from "react";
+import { Link as RouterLink, Route, Switch } from "react-router-dom";
 
 import { Grid, Link, Typography } from "@material-ui/core";
 
@@ -21,9 +22,16 @@ class HobbiesSection extends React.Component {
                 <Grid item>
                     <Typography variant="h6" align="center">
                         {"Music • "}
-                        <Link color="textPrimary" target="_blank" href="/data/fallen-star.pdf">
-                            Poetry
-                        </Link>
+
+                        <RouterLink
+                            to="/data/fallen-star.pdf"
+                            download
+                            target="_blank"
+                            style={{ textDecoration: "none" }}
+                        >
+                            <Link color="textPrimary">Poetry</Link>
+                        </RouterLink>
+
                         {" • Ikebana"}
                     </Typography>
                 </Grid>
