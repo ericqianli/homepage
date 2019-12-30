@@ -47,8 +47,8 @@ class ProjectsSection extends React.Component {
                     alignItems="center"
                     spacing={2}
                 >
-                    {projects.map(project => (
-                        <Grid item>
+                    {projects.map((project, index) => (
+                        <Grid key={index} item>
                             <Link
                                 variant="h5"
                                 align="center"

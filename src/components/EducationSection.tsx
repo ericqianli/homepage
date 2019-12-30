@@ -44,8 +44,9 @@ class EducationSection extends React.Component {
                     alignItems="center"
                     spacing={2}
                 >
-                    {educations.map(education => (
+                    {educations.map((education, index) => (
                         <Grid
+                            key={index}
                             container
                             item
                             direction="column"

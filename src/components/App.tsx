@@ -69,12 +69,7 @@ function App() {
                                 </Grid>
                             </Grid>
 
-                            <Grid
-                                item
-                                direction="column"
-                                justify="center"
-                                alignItems="center"
-                            >
+                            <Grid item>
                                 <Typography variant="body1" align="center">
                                     As a researcher, engineer and art
                                     enthusiast, I believe the value of
@@ -111,7 +106,7 @@ function App() {
 
                             <Box my={2} />
 
-                            <Grid item>
+                            <Grid key="footer" item>
                                 <Typography variant="subtitle2">
                                     www.qianli.com
                                 </Typography>

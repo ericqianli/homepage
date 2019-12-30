@@ -45,8 +45,9 @@ class ServicesSection extends React.Component {
                     alignItems="center"
                     spacing={2}
                 >
-                    {services.map(service => (
+                    {services.map((service, index) => (
                         <Grid
+                            key={index}
                             container
                             item
                             direction="column"

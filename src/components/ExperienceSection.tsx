@@ -47,8 +47,9 @@ class ExperienceSection extends React.Component {
                     alignItems="center"
                     spacing={3}
                 >
-                    {experiences.map(experience => (
+                    {experiences.map((experience, index) => (
                         <Grid
+                            key={index}
                             container
                             item
                             direction="column"

@@ -71,8 +71,9 @@ class PublicationsSection extends React.Component {
                     alignItems="center"
                     spacing={2}
                 >
-                    {publications.map(publication => (
+                    {publications.map((publication, index) => (
                         <Grid
+                            key={index}
                             container
                             item
                             direction="column"
