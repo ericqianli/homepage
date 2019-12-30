@@ -8,19 +8,19 @@ import SectionHeader from "./SectionHeader";
 const projects = [
     {
         name: "Data Sweet",
-        link: "/data/fallen-star.pdf",
+        link: "https://datasweetdata.com",
         description:
             "An integrated solution for user-friendly query and visualization workflow, built with Node.js and React. Features dimensional query and client side visualization. Architected to be completely independent of query source and view library."
     },
     {
         name: "Ocean & Morus",
-        link: "/data/fallen-star.pdf",
+        link: "https://oceanmorus.com/",
         description:
             "A platform dedicated to collecting, presenting and exchanging timeless arts, which reflect simple design, rich culture and exquisite craftsmanship."
     },
     {
         name: "Ishhoikka",
-        link: "/data/fallen-star.pdf",
+        link: "https://isshoikka.com",
         description: "Personal Ikebana work exhibition."
     }
 ];
