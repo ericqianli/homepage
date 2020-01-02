@@ -6,11 +6,11 @@ import SectionHeader from "./SectionHeader";
 
 const services = [
     {
-        organization: "Proceedings of ACM SIGMOD 2015, 2016",
+        organization: "Proceedings of ACM SIGMOD 2015 & 2016",
         title: "Program Committee"
     },
     {
-        organization: "Proceedings of the VLDB Endowment 2014, 2015",
+        organization: "Proceedings of the VLDB Endowment 2014 & 2015",
         title: "Program Committee"
     },
     {

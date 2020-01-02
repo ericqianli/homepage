@@ -6,17 +6,17 @@ import SectionHeader from "./SectionHeader";
 
 const educations = [
     {
-        school: "University of Michigan 2008 - 2013",
+        school: "University of Michigan • 2008 - 2013",
         degree: "M.S and Ph.D. in Computer Science and Engineering",
         GPA: "4.00"
     },
     {
-        school: "University of Hong Kong 2006 - 2007",
+        school: "University of Hong Kong • 2006 - 2007",
         degree: "Exchange in Computer Science and Engineering",
         GPA: "3.81"
     },
     {
-        school: "Zhejiang University 2004 - 2008",
+        school: "Zhejiang University • 2004 - 2008",
         degree: "Chu Kochen Honors College, B.S. in Information Engineering",
         GPA: "3.97"
     }

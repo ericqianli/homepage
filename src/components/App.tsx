@@ -80,8 +80,8 @@ function App() {
                                 <Typography variant="body1" align="center">
                                     As a researcher, engineer and art
                                     enthusiast, I believe the value of
-                                    technology is to make user tasks simple and
-                                    pleasant. As Big Data thrives through the
+                                    technology is to make user tasks easy and
+                                    employble. As Big Data thrives through the
                                     Internet era, I have devoted my past decade
                                     to researching, designing and implementing
                                     data analytics platforms and products, which
