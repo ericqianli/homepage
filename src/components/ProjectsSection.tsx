@@ -11,21 +11,21 @@ import SectionHeader from "./SectionHeader";
 const projects = [
     {
         name: "Data Sweet",
-        logo: <DataSweetLogo width={24} height={24} />,
+        logo: <DataSweetLogo opacity={0.87} width={22} height={22} />,
         link: "https://datasweetdata.com",
         description:
             "An integrated solution for user-friendly query and visualization workflow, built with Node.js and React. Features dimensional query and client side visualization. Architected to be completely independent of query source and view library."
     },
     {
         name: "Ocean & Morus",
-        logo: <OceanMorusLogo width={20} height={20} />,
+        logo: <OceanMorusLogo opacity={0.87} width={18} height={18} />,
         link: "https://oceanmorus.com/",
         description:
             "A platform dedicated to collecting, presenting and exchanging timeless arts, which reflect simple design, rich culture and exquisite craftsmanship."
     },
     {
         name: "Ishhoikka",
-        logo: <IsshoikkaLogo width={8} height={32} />,
+        logo: <IsshoikkaLogo opacity={0.87} width={8} height={32} />,
         link: "https://isshoikka.com",
         description: "Personal Ikebana work exhibition."
     }
