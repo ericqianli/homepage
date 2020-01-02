@@ -48,7 +48,7 @@ function App() {
                             >
                                 <Grid item>
                                     <Typography variant="h2">
-                                        Qian, Li
+                                        Li Qian
                                     </Typography>
                                 </Grid>
 
