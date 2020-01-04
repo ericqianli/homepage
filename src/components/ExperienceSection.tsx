@@ -15,13 +15,13 @@ const experiences = [
         name: "National University of Singapore • 2013 Summer",
         title: "Postdoctoral Researcher",
         description:
-            "Proposing and implementing Automatic User Preference Inference with optimal pairwise comparisons."
+            "Proposed and implemented Automatic User Preference Inference with optimal pairwise comparisons."
     },
     {
         name: "IBM Almaden Research Center • 2011 & 2012 Summer",
         title: "Intern",
         description:
-            "Implementing and patenting Declarative Entity Integration Language for large scale data integration. Prototyping and deploying streaming systems to empower Declarative Entity Integration in real time."
+            "Implemented and patented Declarative Entity Integration Language. Prototyped and deployed streaming systems to empower Declarative Entity Integration in real time."
     }
 ];
 

@@ -80,17 +80,18 @@ function App() {
                                 <Typography variant="body1" align="center">
                                     As a researcher, engineer and art
                                     enthusiast, I believe the value of
-                                    technology is to make user tasks easy and
-                                    employble. As Big Data thrives through the
-                                    Internet era, I have devoted my past decade
-                                    to researching, designing and implementing
-                                    data analytics platforms and products, which
-                                    have helped thousands of users accomplishing
-                                    their data tasks with efficiency and ease.
-                                    Now, arising cutting-edge technologies such
-                                    as Node.js, React, Vue and Material Design
-                                    unlock an unparalleled opportunity to bring
-                                    data analytics to a new level -- simple,
+                                    technology lies in making user tasks easy
+                                    and enjoyable. As Big Data thrives through
+                                    the Internet era, I have devoted my past
+                                    decade to researching, designing and
+                                    implementing data analytics platforms and
+                                    products, which have helped thousands of
+                                    users accomplish their data tasks with
+                                    efficiency and ease. Now, the rise of
+                                    cutting-edge technologies such as Node.js,
+                                    React, Vue and Material Design unlocks an
+                                    unparalleled opportunity to bring data
+                                    analytics to a new level -- simple,
                                     beautiful and powerful. I am excited to
                                     leverage my expertise in engineering and
                                     passion in art to fulfill the vision of next
