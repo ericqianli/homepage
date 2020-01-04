@@ -14,7 +14,7 @@ const projects = [
         logo: <DataSweetLogo opacity={0.87} width={22} height={22} />,
         link: "https://datasweetdata.com",
         description:
-            "An integrated solution for user-friendly query and visualization workflow, built with Node.js, React, Material UI and Firebase. Features dimensional query and client side visualization. Architected to be completely independent of query source and view library."
+            "An integrated solution for user-friendly query and visualization workflow, built with Node.js, React, Material UI, Firebase and GraphQL. Features dimensional query and client side visualization. Architected to be completely independent of query source and view library."
     },
     {
         name: "Ocean & Morus",
