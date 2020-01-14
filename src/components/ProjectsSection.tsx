@@ -12,7 +12,7 @@ const projects = [
     {
         name: "Data Sweet",
         logo: <DataSweetLogo opacity={0.87} width={22} height={22} />,
-        link: "https://datasweetdata.com",
+        link: "https://datasweet.app",
         description:
             "An integrated solution for user-friendly query and visualization workflow, built with Node.js, React, Material UI, Firebase and GraphQL. Features dimensional query and client side visualization. Architected to be completely independent of query source and view library."
     },
@@ -26,7 +26,7 @@ const projects = [
     {
         name: "Ishhoikka",
         logo: <IsshoikkaLogo opacity={0.87} width={8} height={32} />,
-        link: "https://isshoikka.com",
+        link: "http://isshoikka.com",
         description:
             "Personal flower arrangement exhibition, empowered with HHVM and React."
     }
