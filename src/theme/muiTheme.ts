@@ -18,6 +18,11 @@ const theme = createMuiTheme({
                 paddingTop: 0,
                 paddingBottom: 0
             }
+        },
+        MuiTypography: {
+            alignJustify: {
+                textAlignLast: "center"
+            }
         }
     },
     palette: {},

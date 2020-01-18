@@ -78,7 +78,7 @@ class ProjectsSection extends React.Component {
                                     <Open fontSize="small" />
                                 </Grid>
                             </Link>
-                            <Typography variant="body1" align="center">
+                            <Typography variant="body1" align="justify">
                                 {project.description}
                             </Typography>
                         </Grid>

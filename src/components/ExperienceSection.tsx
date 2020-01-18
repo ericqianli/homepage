@@ -62,7 +62,7 @@ class ExperienceSection extends React.Component {
                             <Typography variant="h6" align="center">
                                 {experience.title}
                             </Typography>
-                            <Typography variant="body1" align="center">
+                            <Typography variant="body1" align="justify">
                                 {experience.description}
                             </Typography>
                         </Grid>
