@@ -77,7 +77,7 @@ function App() {
                             </Grid>
 
                             <Grid item>
-                                <Typography variant="body1" align="justify">
+                                <Typography variant="body1" align="center">
                                     As a researcher, engineer and art
                                     enthusiast, I believe the value of
                                     technology lies in making user tasks easy
