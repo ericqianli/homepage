@@ -9,8 +9,8 @@ const theme = createMuiTheme({
     overrides: {
         MuiGrid: {
             "spacing-xs-4": {
-                paddingLeft: "20px",
-                paddingRight: "20px"
+                paddingLeft: "16px",
+                paddingRight: "16px"
             }
         },
         MuiList: {
